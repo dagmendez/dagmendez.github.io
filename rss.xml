@@ -7,13 +7,5 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
 
-    <item>
-      <title>Thoughts on Modern Architecture</title>
-      <link>https://dagmendez.github.io/posts/thoughts-on-modern-architecture.html</link>
-      <description>Exploring the evolution of software architecture patterns and their impact on system design and scalability.</description>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <category>software-architecture</category>
-    </item>
-
   </channel>
 </rss>
