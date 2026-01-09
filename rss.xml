@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>DAGM's Blog</title>
+    <link>https://dagmendez.github.io/</link>
+    <description>Insights on data engineering, cloud, DevOps, AI, technical leadership, software architecture, consulting & business, and project management</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Thoughts on Modern Architecture</title>
+      <link>https://dagmendez.github.io/posts/thoughts-on-modern-architecture.html</link>
+      <description>Exploring the evolution of software architecture patterns and their impact on system design and scalability.</description>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <category>software-architecture</category>
+    </item>
+
+  </channel>
+</rss>
